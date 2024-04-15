@@ -35,7 +35,7 @@ This function gives the balance of the specified account that its address is pro
 
 ## Author
 
-[Samuel Paul](https://github.com/samuepaul)
+[Kamata Simon](https://github.com/kamatasimon)
 
 ## License
 
