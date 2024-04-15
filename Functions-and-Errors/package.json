@@ -1,0 +1,11 @@
+{
+  "name": "functions-and-errors",
+  "version": "1.0.0",
+  "description": "This is the first project in AVAX-Intermediate, in this project I am tasked to create smart contract that implements the require(), assert() and revert() statements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
