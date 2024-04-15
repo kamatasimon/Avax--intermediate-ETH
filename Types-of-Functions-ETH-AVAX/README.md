@@ -23,7 +23,7 @@ Download the codes by downloading the entire repository which will give you acce
 
 ```shell
 
- yarn install
+ npx install
 
 ```
 
@@ -32,7 +32,7 @@ After installing the dependencies, run the following command to start the local 
 
 ```shell
 
-yarn hardhat node
+npx hardhat node
 
 ```
 
@@ -41,7 +41,7 @@ Open a second terminal and deploy the contract on the local Hardhat node using t
 
 ```shell
 
-yarn hardhat run scripts/deploy.js --network localhost
+npx hardhat run scripts/deploy.js --network localhost
 
 ```
 
@@ -57,9 +57,9 @@ After installing the dependences, run the test file by using the following comma
 
 ```shell
 
-yarn hardhat test
+npx hardhat test
 ```
-
+ZamaTokenMint deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
 ## Author
 
 [Kamata Simon](https://github.com/kamatasimon)

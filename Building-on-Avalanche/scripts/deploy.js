@@ -15,7 +15,7 @@ async function main() {
 
   // export the address
   fs.writeFileSync('scripts/address.js', `
-    export const tokenAddress = '${degen.address}'
+    export const DegentokenAddress = '${degen.address}'
   `);
 
   // Run verification on the contract deployment
